@@ -1,4 +1,7 @@
+<<<<<<< HEAD
  hi nice to meet you 
 you are the best that i know 
 i don't know what to do 
+=======
+>>>>>>> 0df72087abf401cd6092a8a896d9250e385939c5
 
